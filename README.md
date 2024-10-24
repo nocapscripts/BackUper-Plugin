@@ -1,21 +1,23 @@
-# BackUper plugin minecraft 1.21.1 or atleast 1.21
+# BackUper Plugin for Minecraft 1.21.1 (or 1.21)
 
-This plugin creates backups of minecraft server generated world and playerdata.
+The BackUper plugin automatically creates backups of your Minecraft server's generated worlds and player data, ensuring that your progress is always safe.
 
+## Permissions
 
-# Permissions to grant command access
+To grant access to the backup command, assign the following permissions:
 
-backuper.backup and op
+- **backuper.backup** - Allows users to execute the backup command.
+- **op** - Grants operator privileges.
 
+## Usage
 
-# Usage command
+To create a backup, use the following command:
+
 ```
 /backup
 ```
 
-# TODO
+## Planned Features
 
-* Fix discord file uploading feature which occurs errors of JDA
-* Might add more features in future.
-
-
+- **Fix Discord File Uploading:** Resolve the errors occurring with JDA (Java Discord API).
+- **Future Enhancements:** Additional features may be added in future updates.
