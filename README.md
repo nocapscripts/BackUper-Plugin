@@ -21,7 +21,7 @@ To create a backup, use the following command:
 
 # Backups location
 
-Backups are located outside of plugins folder alled **Backups**
+Backups are located outside of plugins folder called **Backups**
 
 ## Planned Features
 
