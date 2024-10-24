@@ -2,6 +2,8 @@
 
 The BackUper plugin automatically creates backups of your Minecraft server's generated worlds and player data, ensuring that your progress is always safe.
 
+
+
 ## Permissions
 
 To grant access to the backup command, assign the following permissions:
@@ -16,6 +18,10 @@ To create a backup, use the following command:
 ```
 /backup
 ```
+
+# Backups location
+
+Backups are located outside of plugins folder alled **Backups**
 
 ## Planned Features
 
